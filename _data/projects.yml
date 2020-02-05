@@ -1,0 +1,22 @@
+- layout: top-middle
+  name: Galar5e
+  link: https://github.com/ctrlaltdylang/Galar5e
+  github: ctrlaltdylang/Galar5e
+  quote: >
+    Combining my love for web development, Dungeons & Dragons, and Pokemon
+  description: | 
+    I created this project as a way to keep up with the many details of running and playing in a homebrew D&D campaign, specifically the Pokemon 5e homebrew module. 
+    
+    This was created with <mark>React</mark> on the frontend, and <mark>Firebase</mark> as the backed, as well as hosting. This project was created to test my skills in <mark>React</mark> and <mark>NoSQL</mark>, using <mark>Cloud Firestore</mark>, as well as a way to give back to a fun community.
+    
+    Galar5e is also a work in progress, so be sure to check back for updates!
+- layout: top-middle
+  name: Leaky Toad
+  link: https://github.com/ctrlaltdylang/LeakyToad
+  github: ctrlaltdylang/LeakyToad
+  quote: >
+    Looking for some brews?
+  description: | 
+    This was a rapidly developed web application created to test my knowledge of <mark>Vue.js</mark>, as well as interactions with open source APIs
+
+    Minimalist style web application created using <mark>Vue.js</mark>, <mark>Material UI</mark>, and OpenBreweryDB API

@@ -1,0 +1,38 @@
+- layout: left
+  company: E4 Technology
+  job_title: Software Engineer
+  dates: July 2019 - Present
+  quote: >
+    Developed web applications for various government agencies
+  description: | 
+    Working on teams of various sizes, I contribute to multiple projects for government agencies, both production applications and prototypes.
+    
+    My front-end contributions include working in <mark>React</mark> and <mark>Vue.js</mark> to create interfaces for data analysis and alerts.
+
+    My back-end and systems work include maintaining a <mark>Java</mark> server on <mark>Linux</mark>, and working in <mark>.NET Core</mark> to create APIs. I also work in the cloud, aggregating data from various sources for data analysis in <mark>Azure</mark>.
+- layout: left
+  company: Rural Sourcing
+  job_title: Full Stack Developer
+  dates: November 2017 - July 2019
+  quote: >
+    Full stack web development with a focus on the cloud
+  description: | 
+    Working as a consultant developer, I created various cloud-based web applications, focusing on migrating monolithic applications to cloud-based microservices.
+
+    Utilized various <mark>AWS</mark> tools, such as S3, Lambda, RDS Aurora, as well as DevOps tools in <mark>Azure</mark>. 
+
+    One of the teams I worked on was responsible for building and deploying web applications in <mark>AWS</mark> using <mark>Angular</mark>, <mark>.NET Core</mark>, <mark>Entity Framework</mark>, <mark>MySQL</mark>, and <mark>serverless framework</mark>. My contributions to this team included maintaining an automated UI testing suite in <mark>Katalon</mark>, as well as working in <mark>TeamCity</mark> and <mark>Octopus Deploy</mark> to manage the builds and deployments of our projects.
+
+    I led a team of 5 developers in designing and developing a family of mobile applications using <mark>Xamarin</mark>, consuming serverless <mark>.NET Core</mark> APIs.
+
+    I led the UI efforts for a hybrid web/mobile application using <mark>React</mark> and <mark>Cordova</mark>, hosted on <mark>Azure</mark>. I was also responsible for managing the git repositories and permissions, as well as co-ordinating all the various code reviews and meetings for the internal development team.
+- layout: left
+  company: West Corporation
+  job_title: Webmaster
+  dates: November 2016 - November 2017
+  quote: >
+    Technical support with a specialization in Web
+  description: | 
+    Working on a team of approximately 8 people, I was responsible for maintaining SEO, email servers, and websites for over 1,000 of West's Clients.
+
+    My work included making changes using proprietary CMS tools, <mark>JavaScript</mark>, <mark>HTML</mark>, <mark>CSS</mark>, and <mark>jQuery</mark>.

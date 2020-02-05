@@ -1,0 +1,52 @@
+# Site
+repository: ctrlaltdylang/ctrlaltdylang.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Dylan Green
+title: Full Stack Web Developer
+email: dylan@ctrlaltdylan.com
+website: ctrlaltdylan.com
+
+# Social links
+github_username:  ctrlaltdylang
+linkedin_username: ctrlaltdylan
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | 
+  Hey there, I'm Dylan, and I like to build software. I've worked on corporate software, government applications, brochureware, and even mobile apps. I have a passion for lifelong learning, and at any given time, I can be found learning some new technology or programming language 
+
+  I am most skilled in: <mark>AWS</mark> and <mark>JavaScript</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software engineering,  some of my other interests and hobbies are:
+   - Cooking
+   - Playing D&D
+   - Pokemon
+   - Playing with my dogs   
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
