@@ -7,9 +7,7 @@
   description: | 
     I created this project as a way to keep up with the many details of running and playing in a homebrew D&D campaign, specifically the Pokemon 5e homebrew module. 
     
-    This was created with <mark>React</mark> on the frontend, and <mark>Firebase</mark> as the backed, as well as hosting. This project was created to test my skills in <mark>React</mark> and <mark>NoSQL</mark>, using <mark>Cloud Firestore</mark>, as well as a way to give back to a fun community.
-    
-    Galar5e is also a work in progress, so be sure to check back for updates!
+    This was created with React on the frontend, and Firebase as the backed, as well as hosting. This project was created to test my skills in React and NoSQL, using Cloud Firestore, as well as a way to give back to a fun community.
 - layout: top-middle
   name: Leaky Toad
   link: https://github.com/ctrlaltdylang/LeakyToad
@@ -17,6 +15,6 @@
   quote: >
     Looking for some brews?
   description: | 
-    This was a rapidly developed web application created to test my knowledge of <mark>Vue.js</mark>, as well as interactions with open source APIs
+    This was a rapidly developed web application created to test my knowledge of Vue.js, as well as interactions with open source APIs
 
-    Minimalist style web application created using <mark>Vue.js</mark>, <mark>Material UI</mark>, and OpenBreweryDB API
+    Minimalist style web application created using Vue.js, Material UI, and OpenBreweryDB API
