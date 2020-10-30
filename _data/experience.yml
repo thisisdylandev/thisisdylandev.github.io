@@ -5,7 +5,7 @@
   quote: >
     Develop and maintain Cloud Applications and Infrastructure 
   description: | 
-    At Sangoma, I am responsible for Cloud Infrastructure using Ansible and Docker, as well as maintaining various web services that utilize Ruby On Rails and node.js
+    At Sangoma, I am responsible for Cloud Infrastructure using Ansible, Docker, and AWS, as well as maintaining various web services that use Ruby On Rails and node.js
 - layout: left
   company: E4 Technology
   job_title: Software Engineer
@@ -13,7 +13,7 @@
   quote: >
     Developed web applications for various government agencies
   description: | 
-    Working on teams of various sizes, I contributed to multiple projects for government agencies, both production applications and prototypes.
+    Working on teams of various sizes, I contributed to multiple projects for government agencies, focusing on creating prototypes to test out new and exciting technology and understand the trade-offs associated with them.
     
     My front-end contributions include working in React and Vue.js to create interfaces for data analysis and alerts.
 
@@ -23,15 +23,15 @@
   job_title: Full Stack Developer
   dates: November 2017 - July 2019
   quote: >
-    Full stack web development with a focus on the cloud
+    Full stack web development with a focus on the cloud and building MVPs
   description: | 
     Working as a consultant developer, I created various cloud-based web applications, focusing on migrating monolithic applications to cloud-based microservices.
 
     Utilized various AWS tools, such as S3, Lambda, RDS Aurora, as well as DevOps tools in Azure. 
 
-    One of the teams I worked on was responsible for building and deploying web applications in AWS using Angular, .NET Core, Entity Framework, MySQL, and serverless framework. My contributions to this team included maintaining an automated UI testing suite in Katalon, working in TeamCity and Octopus Deploy to manage the builds and deployments of our projects, and work with both Project Management and Product Management to define requirements and plan sprints.
+    One of the teams I worked on was responsible for building and deploying web-based MVPs in AWS using Angular, .NET Core, Entity Framework, MySQL, and serverless framework. My contributions to this team included maintaining an automated UI testing suite in Katalon, working in TeamCity and Octopus Deploy to manage the builds and deployments of our projects, and work with both Project Management and Product Management to define requirements and plan sprints.
 
-    I led a team of 5 developers in designing and developing a family of mobile applications using Xamarin, consuming serverless .NET Core APIs. On this project, I worked closely with the client's Product Owner to develop a road map for the applications, as well as gather requirements and plan out sprints.
+    I led a team of 5 developers in designing and developing a family of mobile-based MVPs using Xamarin, consuming serverless .NET Core APIs. On this project, I worked closely with the client's Product Owner to develop a road map for the applications, as well as gather requirements and plan out sprints.
 
     I led the UI efforts for a hybrid web/mobile application using React and Cordova, hosted on Azure. I was also responsible for managing the git repositories and permissions, as well as co-ordinating all the various code reviews and meetings for the internal development team.
 - layout: left
