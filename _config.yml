@@ -20,9 +20,11 @@ twitter_username: its_dgreen
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | 
-  Hey there, I'm Dylan, and I like to build software. I've worked on corporate software, government applications, brochureware, and even mobile apps. I have a passion for lifelong learning, and at any given time, I can be found learning some new technology or programming language 
+  Hey there, I'm Dylan, and I like to build things and put them on the Internet. 
 
-  I am most skilled in: JavaScript, Data Analytics, and creating MVPs
+  Currently I am using React, node.js, Gatsby.js, and MongoDB
+
+  I'm working on learning React Native and GraphQL
 
 # Projects Section
 # projects_title: Projects
