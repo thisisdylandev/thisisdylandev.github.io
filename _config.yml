@@ -8,6 +8,9 @@ title: Software Engineer and Problem Solver
 email: dylan@ctrlaltdylan.com
 website: ctrlaltdylan.com
 
+# Dark Mode (true/false/never)
+darkmode: true
+
 # Social links
 github_username:  its-dgreen
 linkedin_username: ctrlaltdylan
