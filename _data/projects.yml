@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Galar5e
-  link: https://github.com/ctrlaltdylang/Galar5e
-  github: ctrlaltdylang/Galar5e
+  link: https://github.com/its-dgreen/Galar5e
+  github: its-dgreen/Galar5e
   quote: >
     Combining my love for web development, Dungeons & Dragons, and Pokemon
   description: | 
@@ -10,8 +10,8 @@
     This was created with React on the frontend, and Firebase as the backed, as well as hosting. This project was created to test my skills in React and NoSQL, using Cloud Firestore, as well as a way to give back to a fun community.
 - layout: top-middle
   name: Leaky Toad
-  link: https://github.com/ctrlaltdylang/LeakyToad
-  github: ctrlaltdylang/LeakyToad
+  link: https://github.com/its-dgreen/LeakyToad
+  github: its-dgreen/LeakyToad
   quote: >
     Looking for some brews?
   description: | 
