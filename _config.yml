@@ -1,5 +1,5 @@
 # Site
-repository: ctrlaltdylang/ctrlaltdylang.github.io
+repository: its-dgreen/its-dgreen.github.io
 favicon: images/favicon.ico
 
 # Personal info
@@ -9,8 +9,9 @@ email: dylan@ctrlaltdylan.com
 website: ctrlaltdylan.com
 
 # Social links
-github_username:  ctrlaltdylang
+github_username:  its-dgreen
 linkedin_username: ctrlaltdylan
+twitter_username: its_dgreen
 
 # About Section
 # about_title: About Me
