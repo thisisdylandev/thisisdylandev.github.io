@@ -1,20 +1,29 @@
 - layout: top-middle
+  name: RegiVGC
+  github: its-dgreen/RegiVGC
+  quote: >
+    Pokemon VGC Tournament Registration Platform
+  description: |
+    This project was created for Pokemon Event Coordinators to manage their VGC events, and for Pokemon VGC players to be able to build a team and to search and register for nearby events.
+
+    Created using express, pug, Google Maps API, MongoDB, and Docker/Docker Compose.
+- layout: top-middle
   name: Galar5e
-  link: https://github.com/its-dgreen/Galar5e
+  link: https://galar5e.com/
   github: its-dgreen/Galar5e
   quote: >
     Combining my love for web development, Dungeons & Dragons, and Pokemon
-  description: | 
+  description: |
     I created this project as a way to keep up with the many details of running and playing in a homebrew D&D campaign, specifically the Pokemon 5e homebrew module. 
-    
+
     This was created with React on the frontend, and Firebase as the backed, as well as hosting. This project was created to test my skills in React and NoSQL, using Cloud Firestore, as well as a way to give back to a fun community.
 - layout: top-middle
   name: Leaky Toad
-  link: https://github.com/its-dgreen/LeakyToad
+  link: https://leakytoad-23a40.web.app/
   github: its-dgreen/LeakyToad
   quote: >
     Looking for some brews?
-  description: | 
-    This was a rapidly developed web application created to test my knowledge of Vue.js, as well as interactions with open source APIs
+  description: |
+    This was a rapidly developed web application created to test my knowledge of Vue.js, as well as interactions with open source APIs. Rework is on my roadmap, need to make it mobile friendly and add PWA.
 
-    Minimalist style web application created using Vue.js, Material UI, and OpenBreweryDB API
+    Minimalist style web application created using Vue.js, Material UI, and OpenBreweryDB API. Hosted on Firebase.
