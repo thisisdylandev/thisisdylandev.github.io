@@ -9,10 +9,12 @@ const EMAIL = 'dylan@ctrlaltdylan.com';
 const FOOTER_URL = 'https://www.ctrlaltdylan.com';
 
 const BIO = `
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt anim id est laborum.`;
+      Hey there, I'm Dylan. I'm a front end web and software developer with a keen interest in security and the jamstack. 
+      
+      Welcome to my corner of the internet.
+
+      My CV and brief description of my skills lives here. If you'd like to learn more about me, check out the links below.
+`;
 
 const EXPERIENCE_LIST = [
   {
@@ -21,7 +23,9 @@ const EXPERIENCE_LIST = [
     description: `
     At Sangoma, I am responsible for Cloud Infrastructure using Ansible, Docker, and AWS, as well as maintaining various web services and applications that use Ruby On Rails, node.js, and React
 
-    Helped reduce risk and increase availability of cloud applications and services by assisting operations in moving infrastructure to a new data center via automation.    `,
+    Helped reduce risk and increase availability of cloud applications and services by assisting operations in moving infrastructure to a new data center via automation.
+    
+    Refactored multiple products page to no longer show not-in-stock items. While working on this refactor, we took the opportunity to also upgrade the various versions of Node, React, and other dependencies that introduced breaking updates since the last upgrade.`,
     period: 'March 2020 - present',
   },
   {
@@ -53,8 +57,8 @@ const EDUCATION_LIST = [
     institution: 'University of Alabama - Huntsville',
     qualification: 'MS in Cybersecurity Management',
     description: `
-      My time at UAH has been spent studying the in’s and out’s of cybersecurity and managing teams of cyber professionals. I have been able to strengthen my skills as an engineer, as well as learn what it takes to write policies, educate others on cybersecurity, and what kind of skills a leader in technology needs to have to succeed.
-      In this program, I have taken courses on cybersecurity engineering, resource planning, data science and analytics, and management.
+      My time at UAH has been spent studying the in’s and out’s of cybersecurity and managinga teams of cyber professionals. I have been able to strengthen my skills as an engineer, as well as learn what it takes to write policies, educate others on cybersecurity, and what kind of skills a leader in technology needs to have to succeed.
+      In this program, I have taken courses on cybersecurity engineering, penetration testing, data science and analytics, and management.
     `,
     period: '2021',
   },
@@ -92,28 +96,28 @@ const PREVIOUS_SKILLS = [
   'Python',
 ];
 
-const PORTFOLIO = {
-  introParagraphs: [
-    `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`,
-    `Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt anim id est laborum.`,
-  ],
-  items: [
-    {
-      name: 'First portfolio item',
-      description:
-        'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.',
-      url: 'https://github.com/user/repo',
-    },
-    {
-      name: 'Second portoflio item name',
-      description:
-        'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.',
-      url: 'https://github.com/user/repo',
-    },
-  ],
-};
+// const PORTFOLIO = {
+//   introParagraphs: [
+//     `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+//      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`,
+//     `Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+//      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt anim id est laborum.`,
+//   ],
+//   items: [
+//     {
+//       name: 'First portfolio item',
+//       description:
+//         'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.',
+//       url: 'https://github.com/user/repo',
+//     },
+//     {
+//       name: 'Second portoflio item name',
+//       description:
+//         'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.',
+//       url: 'https://github.com/user/repo',
+//     },
+//   ],
+// };
 
 module.exports = {
   siteTitle: `${FIRST_NAME} ${LAST_NAME} Resume`, // <title>
@@ -123,7 +127,7 @@ module.exports = {
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/images/favicon.ico',
+  manifestIcon: 'src/assets/images/favicon.png',
   pathPrefix: `/${REPOSITORY}`, // This path is subpath of your hosting https://domain/portfolio
   firstName: FIRST_NAME,
   lastName: LAST_NAME,
@@ -138,23 +142,28 @@ module.exports = {
   // skills
   previousSkills: PREVIOUS_SKILLS,
   // portfolio
-  portfolio: PORTFOLIO,
+  // portfolio: PORTFOLIO,
   // social
   socialLinks: [
     {
-      icon: 'fa-github',
+      icon: 'fab fa-github',
       name: 'Github',
       url: `https://github.com/${GITHUB_USERNAME}`,
     },
     {
-      icon: 'fa-linkedin-in',
+      icon: 'fab fa-linkedin-in',
       name: 'Linkedin',
       url: `https://linkedin.com/in/${LINKEDIN_USERNAME}`,
     },
     {
-      icon: 'fa-twitter',
+      icon: 'fab fa-twitter',
       name: 'Twitter',
       url: `https://twitter.com/${TWITTER_USERNAME}`,
+    },
+    {
+      icon: 'fas fa-globe',
+      name: 'Blog',
+      url: `${FOOTER_URL}`,
     },
   ],
   email: EMAIL,

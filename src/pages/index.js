@@ -20,15 +20,15 @@ const IndexPage = () => (
           </h1>
           <div className="subheading mb-5">
             <a href={`mailto:${config.email}`}>{config.email} · </a>
-            {config.address} · {config.phone}
+            {config.address}
           </div>
-          <p className="lead mb-5">{config.bio}</p>
+          <p className="lead mb-5 resume-paragraph">{config.bio}</p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
               const { icon, url } = social;
               return (
                 <a key={url} href={url}>
-                  <i className={`fab ${icon}`}></i>
+                  <i className={`${icon}`}></i>
                 </a>
               );
             })}
@@ -131,7 +131,7 @@ const IndexPage = () => (
 
       <hr className="m-0" />
 
-      <section
+      {/* <section
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
         id="portfolio"
       >
@@ -162,7 +162,7 @@ const IndexPage = () => (
             );
           })}
         </div>
-      </section>
+      </section> */}
     </div>
   </Layout>
 );
