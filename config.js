@@ -9,7 +9,7 @@ const EMAIL = 'dylan@ctrlaltdylan.com';
 const FOOTER_URL = 'https://www.ctrlaltdylan.com';
 
 const BIO = `
-      Hey there, I'm Dylan. I'm a front end web and software developer with a keen interest in security and the jamstack. 
+      Hey there, I'm Dylan. I'm a front end web and software developer with a keen interest in data and the jamstack. 
       
       Welcome to my corner of the internet.
 
