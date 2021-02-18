@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-resume",
+  "name": "its-dgreen.github.io",
   "version": "0.0.1",
-  "description": "CTO.ai Gatsby.js Resume starter template",
+  "description": "My portfolio site",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cto-ai/gatsby-resume-template.git"
+    "url": "git+https://github.com/its-dgreen/its-dgreen.github.io.git"
   },
   "author": {
-    "name": "CTO.ai",
-    "email": "support@cto.ai"
+    "name": "its-dgreen",
+    "email": "dylan@ctrlaltdylan.com"
   },
   "dependencies": {
     "gatsby": "^2.22.3",
@@ -35,16 +35,9 @@
     "clean": "rimraf .cache public",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
   },
-  "keywords": [
-    "cto.ai",
-    "ops",
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-resume"
-  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cto-ai/gatsby-resume-template/issues"
+    "url": "https://github.com/its-dgreen/its-dgreen.github.io/issues"
   },
-  "homepage": "https://github.com/cto-ai/gatsby-resume-template#readme"
+  "homepage": "its-dgreen.github.io"
 }
