@@ -11,7 +11,7 @@
     "email": "dylan@ctrlaltdylan.com"
   },
   "dependencies": {
-    "gatsby": "^2.22.3",
+    "gatsby": "^5.9.0",
     "gatsby-plugin-manifest": "^2.4.8",
     "gatsby-plugin-offline": "^3.2.6",
     "gatsby-plugin-react-helmet": "^3.3.2",
